@@ -1,0 +1,10 @@
+A1 : (b) sqlite3
+A2 : (b) conn.commit()
+A3 : (b) 2
+A4 : (c) None
+A5 : (d) ERRIR: WHERE IS MISSING
+A6 : (b) uvicron main:app --reload
+A7 : (c) /docs
+A8 : (b) POST
+A9 : (d) 422 OR 201
+A10 : (c) 303 ya (b)201 
